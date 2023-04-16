@@ -5,7 +5,7 @@ Este proyecto es sobre el punto 4 del trabajo practico n5° sobre Javascript
 
 ## Demo
 
-trabajol-practico-4-java.netlify.app
+https://tp5-ejercicio04.netlify.app/
 
 ## Como utilizar este repositorio 
 
