@@ -6,3 +6,25 @@ body{
 main{
     flex-grow: 1;
 }
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body{
+    background: #000;
+}
+
+p{
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+}
+.textoVerde{
+    text-shadow: 0 0 5px rgb(134, 255, 148),
+    0 0 10px rgb(134, 255, 148),
+    0 0 15px rgb(134, 255, 148),
+    0 0 20px rgb(134, 255, 148),
+    0 0 30px rgb(134, 255, 148),
+    0 0 40px rgb(134, 255, 148),
+    0 0 50px rgb(134, 255, 148),
+    0 0 70px rgb(134, 255, 148),
+    0 0 90px rgb(134, 255, 148),
+    0 0 100px rgb(134, 255, 148);
+}
